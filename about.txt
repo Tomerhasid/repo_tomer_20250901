@@ -1,0 +1,2 @@
+
+I'm Tomer, and I'm diving into the world of programming to build a strong foundation in DevOps, Git, Python, and Linux. I’m drawn to the power of automation, the elegance of clean code, and the challenge of solving real-world problems through technology. My goal is to become proficient in managing infrastructure, streamlining development workflows, and creating tools that make systems more efficient and reliable. I see programming not just as a skill, but as a gateway to innovation and impact.
