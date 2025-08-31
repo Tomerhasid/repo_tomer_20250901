@@ -1,2 +1,17 @@
 
-I'm Tomer, and I'm diving into the world of programming to build a strong foundation in DevOps, Git, Python, and Linux. I’m drawn to the power of automation, the elegance of clean code, and the challenge of solving real-world problems through technology. My goal is to become proficient in managing infrastructure, streamlining development workflows, and creating tools that make systems more efficient and reliable. I see programming not just as a skill, but as a gateway to innovation and impact.
+I'm Tomer, and I'm diving into the world of programming to build a strong foundation in
+ DevOps, Git, Python, and Linux. I’m drawn to the power of automation,
+ the elegance of clean code, and the challenge of solving 
+real-world problems through technology
+. My goal is to become proficient in managing infrastructure,
+ streamlining development workflows, 
+and creating tools that make systems more efficient and reliable.
+ I see programming not just as a skill,
+ but as a gateway to innovation and impact.
+🔧 Linux: The backbone of most servers and cloud environments. Start with basic commands, file systems, and shell scripting. It’s essential for understanding how systems behave.
+
+📁 Git: Your version control sidekick. Learn how to track changes, collaborate with others, and manage code across environments. GitHub is your playground.
+
+🐍 Python: The automation engine. Use it to write scripts, manage deployments, and build tools. It’s especially useful for CI/CD pipelines and cloud automation.
+
+⚙️ DevOps Tools: Once you're comfortable with the basics, explore Docker, Kubernetes, Jenkins, and Terraform. These tools help you build, test, and deploy software efficiently.
